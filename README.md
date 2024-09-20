@@ -13,7 +13,7 @@ I am a passionate student of programming, always fascinated by technology and ha
 - ✍️ I have about 1 year of experience working at an AI camera startup and have experience working with Linux, configuring Ubuntu servers.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,fastapi,git, github,gitlab,mongodb,mysql,tailwind,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,fastapi,git,github,gitlab,mongodb,mysql,tailwind,linux,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
