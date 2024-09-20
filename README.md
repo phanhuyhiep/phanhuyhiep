@@ -23,6 +23,7 @@ I am a passionate student of programming, always fascinated by technology and ha
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with FastAPI, a powerful Python web framework.
   - Diving into MongoDB for efficient and scalable database management.
+  - You can check out my projects at [Repositories](https://github.com/phanhuyhiep?tab=repositories).
 <!--
  ## 🏆 Achievements
 
@@ -31,8 +32,8 @@ I am a passionate student of programming, always fascinated by technology and ha
 -->
 ## 📬 Get in Touch
 
-- Connect with me on [Email](mailto:hiep2003dev@gmail.com)
-- Read more of my articles on [Linkedin](https://www.linkedin.com/in/hiepph25/)
+- Connect with me on [Email](mailto:hiep2003dev@gmail.com).
+- Read more of my articles on [Linkedin](https://www.linkedin.com/in/hiepph25/).
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
