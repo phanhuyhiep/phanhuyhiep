@@ -31,8 +31,8 @@ I am a passionate student of programming, always fascinated by technology and ha
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Email](mailto:hiep2003dev@gmail.com)
+- Read more of my articles on [Linkedin](https://www.linkedin.com/in/hiepph25/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
