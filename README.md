@@ -21,14 +21,15 @@ I am a passionate student of programming, always fascinated by technology and ha
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
+  - Building server-side applications with FastAPI, a powerful Python web framework.
+  - Diving into MongoDB for efficient and scalable database management.
+  - 
+<!--
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
-
+-->
 ## 📬 Get in Touch
 
 - Connect with me on [Email](mailto:hiep2003dev@gmail.com)
