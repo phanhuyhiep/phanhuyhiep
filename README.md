@@ -1,22 +1,19 @@
 # Hi, I'm Phan Huy Hiep! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I am a computer technician, focusing on web development using JavaScript and Python.
 
 ![<phanhuyhiep>'s Stats](https://github-readme-stats.vercel.app/api?username=phanhuyhiep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 🔭 I am improving my skills in both Front-End and Back-End development.
+- 📝 I always improve myself through every project I participate in.
+- FrontEnd: I have experience working with ReactJS (Hook, Redux Toolkit), TailwindCSS, Bootstrap, Axios, and other technologies.
+- BackEnd: I have experience working with Node.JS, TypeScript, FastAPI, Python, MongoDB, MySQL, and other technologies.
+- ✍️ I have about 1 year of experience working at an AI camera startup and have experience working with Linux, configuring Ubuntu servers.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,fastapi,git, github,gitlab,mongodb,mysql,tailwind,linux,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
