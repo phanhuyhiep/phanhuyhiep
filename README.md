@@ -23,7 +23,6 @@ I am a passionate student of programming, always fascinated by technology and ha
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with FastAPI, a powerful Python web framework.
   - Diving into MongoDB for efficient and scalable database management.
-  - 
 <!--
  ## 🏆 Achievements
 
