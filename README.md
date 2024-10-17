@@ -3,6 +3,7 @@
 I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I am a computer technician, focusing on web development using JavaScript and Python.
 
 ![<phanhuyhiep>'s Stats](https://github-readme-stats.vercel.app/api?username=phanhuyhiep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🚀 About Me
 
@@ -14,7 +15,6 @@ I am a passionate student of programming, always fascinated by technology and ha
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,fastapi,git,github,gitlab,mongodb,mysql,tailwind,linux,ubuntu)](https://skillicons.dev)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
