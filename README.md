@@ -14,7 +14,7 @@ I am a passionate student of programming, always fascinated by technology and ha
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,fastapi,git,github,gitlab,mongodb,mysql,tailwind,linux,ubuntu)](https://skillicons.dev)
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
