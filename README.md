@@ -3,7 +3,7 @@
 I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I am a computer technician, focusing on web development using JavaScript and Python.
 
 ![<phanhuyhiep>'s Stats](https://github-readme-stats.vercel.app/api?username=phanhuyhiep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="356" />
 
 ## 🚀 About Me
 
