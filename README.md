@@ -1,9 +1,11 @@
-# Hi, I'm Phan Huy Hiep! 👋
+# Hi, I'm Phan Huy Hiep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I am a computer technician, focusing on web development using JavaScript and Python.
+I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I'm working on [cxview.ai](https://cxview.ai/), focusing on web development using JavaScript and Python. Beside's programming, I enjoy watching movies, playing football, badminton and traveling.
 
 ![<phanhuyhiep>'s Stats](https://github-readme-stats.vercel.app/api?username=phanhuyhiep&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="356" />
+<!--
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250" /> 
+-->
 
 ## 🚀 About Me
 
