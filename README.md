@@ -25,8 +25,8 @@
 
 I am a passionate **Fullstack Web Developer** and technology enthusiast with a deep love for building robust systems and crafting rich, responsive user experiences.
 
-- 🔭 Currently working on building advanced web solutions at **[cxview.ai](https://cxview.ai/)**, focusing heavily on **JavaScript/TypeScript** and **Python**.
-- 🛠️ Boast about **1 year of experience** at an AI Camera startup where I worked extensively with **Linux systems**, configuring **Ubuntu servers**, and deploying applications.
+- 🔭 Currently working on building advanced web solutions at **[cxview.ai](https://cxview.ai/)**, focusing heavily on **JavaScript/TypeScript**, **Python**, and **.NET**.
+- 🛠️ Boast about **more than 2 years of experience** developing robust web services, API integrations, and cross-platform mobile apps with **Flutter**, alongside configuring **Ubuntu servers** and managing Linux systems.
 - 🚀 Constantly learning, adapting, and growing with each line of code I write.
 
 ---
@@ -35,10 +35,8 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 
 <div align="center">
 
-| Section | Technologies |
-| :--- | :--- |
-| **Frontend** | [![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,bootstrap,html,css)](https://skillicons.dev) |
-| **Backend & DB** | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,py,fastapi,mongodb,mysql)](https://skillicons.dev) |
+| **Frontend** | [![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,materialui,bootstrap,flutter,dart,html,css)](https://skillicons.dev) |
+| **Backend & DB** | [![Backend Skills](https://skillicons.dev/icons?i=nodejs,py,fastapi,cs,dotnet,postgres,mongodb,mysql)](https://skillicons.dev) |
 | **Tools & DevOps** | [![DevOps Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu)](https://skillicons.dev) |
 
 </div>
@@ -47,18 +45,23 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 
 ### 📊 GitHub Analytics
 
+<!-- Dynamic Widescreen Contribution Activity Graph -->
 <p align="center">
   <a href="https://github.com/phanhuyhiep">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=phanhuyhiep&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" alt="Phan Huy Hiep's GitHub Stats" height="195px" />
-  </a>
-  <a href="https://github.com/phanhuyhiep">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhuyhiep&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="Phan Huy Hiep's Top Languages" height="195px" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanhuyhiep&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Phan Huy Hiep's Contribution Graph" width="100%" />
   </a>
 </p>
 
-<br clear="both"/>
-<br/>
+<!-- Sleek Gamified Animated Snake Contribution Game -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg" />
+    <img alt="Phan Huy Hiep's Snake Contribution Game" src="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
+<!-- Contribution Streak Tracker -->
 <p align="center">
   <a href="https://github.com/phanhuyhiep">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanhuyhiep&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" width="100%" />
@@ -69,9 +72,9 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 
 ### 🌱 Currently Exploring & Improving
 
-- ⚡ **Advanced Full Stack Architectures**: Deepening knowledge of state management patterns using Redux Toolkit and modern hooks.
-- ⚙️ **High Performance Backend APIs**: Writing highly optimized asynchronous routers and dependencies using **FastAPI**.
-- 📊 **Scalable Databases**: Fine-tuning query performance and schema design in **MongoDB** and **MySQL**.
+- ⚡ **Advanced Full Stack & Mobile Architectures**: Deepening knowledge of state management patterns (Redux Toolkit) in **React** and crafting beautiful cross-platform mobile experiences with **Flutter**.
+- ⚙️ **High-Performance APIs**: Scaling asynchronous systems using **FastAPI (Python)** and architecting robust enterprise solutions using **C# / .NET**.
+- 📊 **Scalable Databases**: Fine-tuning query performance, database normalization, and index configurations in **PostgreSQL**, **MySQL**, and **MongoDB**.
 - 🛠️ Check out all my repositories and project sources at [Repositories](https://github.com/phanhuyhiep?tab=repositories).
 
 ---
