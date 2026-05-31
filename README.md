@@ -62,9 +62,9 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 <!-- Sleek Gamified Animated Snake Contribution Game -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg" />
-    <img alt="Phan Huy Hiep's Snake Contribution Game" src="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg?v=1" />
+    <img alt="Phan Huy Hiep's Snake Contribution Game" src="https://raw.githubusercontent.com/phanhuyhiep/phanhuyhiep/output/github-contribution-grid-snake.svg?v=1" width="100%" />
   </picture>
 </p>
 
