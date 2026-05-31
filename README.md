@@ -45,12 +45,19 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 
 ### 📊 GitHub Analytics
 
-<!-- Dynamic Widescreen Contribution Activity Graph -->
-<p align="center">
-  <a href="https://github.com/phanhuyhiep">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanhuyhiep&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Phan Huy Hiep's Contribution Graph" width="100%" />
-  </a>
-</p>
+<!-- Dynamic Widescreen Contribution Activity Graph with Chill Coding GIF -->
+<table border="0">
+  <tr>
+    <td valign="center" width="65%">
+      <a href="https://github.com/phanhuyhiep">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanhuyhiep&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Phan Huy Hiep's Contribution Graph" width="100%" />
+      </a>
+    </td>
+    <td valign="center" width="35%" align="right">
+      <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coding Chill GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- Sleek Gamified Animated Snake Contribution Game -->
 <p align="center">
