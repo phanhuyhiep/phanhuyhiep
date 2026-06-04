@@ -66,11 +66,11 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 </p>
 
 <!-- Contribution Streak Tracker -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/phanhuyhiep">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanhuyhiep&theme=tokyonight&hide_border=true&hide_background=true" alt="GitHub Streak Stats" width="100%" />
   </a>
-</p>
+</p> -->
 
 ---
 
