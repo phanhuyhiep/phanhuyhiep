@@ -40,7 +40,7 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 > Designing highly optimized asynchronous endpoints, secure enterprise microservices, and robust, scalable databases.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,cs,dotnet,postgres,mongodb,mysql" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,flask,cs,dotnet,postgres,mongodb,mysql" alt="Backend Stack" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ I am a passionate **Fullstack Web Developer** and technology enthusiast with a d
 > Configuring high-performance Linux/Ubuntu server nodes, orchestrating secure deployments, and streamlining CI/CD workflows.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu" alt="DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,cloudflare,aws,docker,nginx,elasticsearch,kafka,rabbitmq,redis" alt="DevOps Stack" />
   </a>
 </p>
 
